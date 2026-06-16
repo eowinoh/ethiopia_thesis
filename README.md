@@ -13,7 +13,7 @@ The study aims to:
   * Weight-for-age z-score (WAZ)
   * Weight-for-length z-score (WLZ)
 * Assess whether associations vary across different points of the outcome distributions using quantile regression.
-* Evaluate the robustness of findings under alternative count-data modelling approaches.
+
 
 ## Methods
 

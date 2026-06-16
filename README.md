@@ -26,7 +26,18 @@ The repository includes code for:
 * Conway-Maxwell-Poisson (COM-Poisson) regression
 * Quantile regression
 
-
+## Order of Execution
+```text
+Data_Preprocessing.R
+        ↓
+Final_Analysis_Processing.R
+        ↓
+  Objective_1.R
+        ↓
+  Objective_2.R
+        ↓
+  Objective_3.R       
+```
 ## Software
 
 Analyses were conducted in R using packages for count-data modelling, multiple imputation, and quantile regression.
